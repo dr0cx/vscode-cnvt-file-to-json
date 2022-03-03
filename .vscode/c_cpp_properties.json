@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:\\Users\\drock\\Documents\\GitHub\\vscode-cnvt-file-to-json\\.vscode\\include"
             ],
             "defines": [
                 "_DEBUG",
